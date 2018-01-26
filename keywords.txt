@@ -1,0 +1,18 @@
+
+#######################################
+# Syntax Coloring Map send2seg
+# by Kru Praphas Suwanphet
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+send2seg		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+set	        KEYWORD2
+loadValue   KEYWORD2
+
