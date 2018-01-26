@@ -1,4 +1,4 @@
-# sens2seg
+# send2seg
 display value to 7 segment 4 digit common cathode with decimal point
 
 # Wiring:
